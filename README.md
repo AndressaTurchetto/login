@@ -31,6 +31,11 @@ Abra um Pull Request no GitHub.
 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
 
+## Imagens do projeto
+![Imagem de captura da tela](assets/tela1.png)
+![Imagem de captura da tela](assets/tela2.png)
+
+
 ## Contato
 Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato:
 
